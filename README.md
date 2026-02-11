@@ -40,7 +40,7 @@ This study presents an AI-based approach for the automated classification of nai
 ---
 ## 🛠 Tools
 
-- **Programming Language:** Python 3.13.1  
+- **Programming Language:** Python 3.13.5  
 - **Libraries:** OpenCV, NumPy, Matplotlib  
 - **Tools:** GoogleColab  
 
