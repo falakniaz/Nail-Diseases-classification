@@ -5,7 +5,7 @@ This study presents an AI-based approach for the automated classification of nai
 ---
 ## 📌 Table of Contents
 - [About this Research](#about)
-- [Research Methodology(#methodology)
+- [Research Methodology](#methodology)
 - [Dataset](#dataset)
 - [Proposed Methodology](#Methodology)
 - [Tools](#tech-stack)
