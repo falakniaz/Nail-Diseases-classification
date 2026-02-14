@@ -19,7 +19,7 @@ This study presents an AI-based approach for the automated classification of nai
 ---
 ## Proposed Methodology
 <p align="center">
-  <img src="images\proposed.JPG" width="600">
+  <img src="images\proposed.png" width="600">
 </p>
 
 ---
